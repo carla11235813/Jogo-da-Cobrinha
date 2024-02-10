@@ -2,7 +2,7 @@
 
 ## Tópicos &#128204;  
 
-- [Descrição &#128221;](#descrição)
+- [Descrição &#128221;](#descrição-&#128221;)
 
 - [Funcionalidades](#funcionalidades)
 
@@ -22,7 +22,7 @@ O jogo da cobrinha feito em `Python` usando a biblioteca `Pygame` é uma versão
 
 O jogador pode controlar a direção da cobra usando as teclas de seta do teclado. O jogo é exibido em uma janela gráfica usando recursos da biblioteca Pygame, o que proporciona uma experiência visualmente atraente e interativa.
 
-## Funcionalidades :hammer:
+## Funcionalidades
 
 :white_check_mark: `Funcionalidade 1:` controlar a direção da cobra utilizando as teclas de direção do teclado
 
