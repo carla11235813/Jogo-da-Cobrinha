@@ -2,7 +2,7 @@
 
 ## Tópicos &#128204;  
 
-- [Descrição](#descrição)
+- [Descrição &#128221;](#descrição)
 
 - [Funcionalidades](#funcionalidades)
 
