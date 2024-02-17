@@ -38,7 +38,7 @@ O jogador pode controlar a direção da cobra usando as teclas de seta do teclad
 
 <h2 id="tecnologias-e-bibliotecas-utilizadas">Tecnologias e bibliotecas utilizadas :books:</h2>
 
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23F7DF1E&label=linguagem&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 
 ![Static Badge](https://img.shields.io/badge/pygame-%2385FF85?style=for-the-badge&label=biblioteca&labelColor=gray)
 
